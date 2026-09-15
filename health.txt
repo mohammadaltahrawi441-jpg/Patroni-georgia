@@ -1,0 +1,9 @@
+Patroni Georgia deployment check
+build      2026-09-15 12:45 UTC
+target     dist
+pages      169 pre-rendered
+images     141 files in /img/
+
+If you can read this at https://patronigeorgia.com/health.txt then the
+whole folder deployed, not just index.html. If it 404s, the upload only
+took the root file and the photographs will be missing.

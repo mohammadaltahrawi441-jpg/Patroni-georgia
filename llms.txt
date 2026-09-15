@@ -1,0 +1,60 @@
+# Patroni Georgia
+
+> Real estate, tours and experiences in Georgia (the country). We sell and rent apartments in Batumi, Tbilisi, Kobuleti, Gonio and Kvariati, and we run private tours from those cities. Prices, fees and residency rules on this site are the real ones, with the date they were checked.
+
+Checked and rebuilt: 2026-09-15. Languages: English at the root, Arabic under /ar/. Every page has an hreflang pair.
+
+Contact: WhatsApp +90 541 654 2996 · https://wa.me/905416542996
+
+## Start here
+
+- [Patroni Georgia](https://patronigeorgia.com/): Property, tours and experiences in Georgia in one place.
+- [Real estate in Georgia](https://patronigeorgia.com/real-estate/): Every project and listing we have, by city, with asking prices.
+- [Tours and experiences](https://patronigeorgia.com/tours/): Private tours built city by city rather than sold as fixed packages.
+- [Guides](https://patronigeorgia.com/guides/): Long-form answers on buying, owning, renting and travelling in Georgia.
+- [Blog](https://patronigeorgia.com/blog/): Shorter pieces on the Georgian property and travel market.
+
+## Cities with inventory
+
+- [Property in Batumi](https://patronigeorgia.com/real-estate/batumi/): Projects and listings in Batumi, with prices and sizes.
+- [Property in Tbilisi](https://patronigeorgia.com/real-estate/tbilisi/): Projects and listings in Tbilisi, with prices and sizes.
+- [Property in Kobuleti](https://patronigeorgia.com/real-estate/kobuleti/): Projects and listings in Kobuleti, with prices and sizes.
+
+- [Investment property in Georgia](https://patronigeorgia.com/real-estate/investment/): Rental yield, purchase costs and the residency threshold, with the numbers written out.
+- [New developments](https://patronigeorgia.com/real-estate/new-developments/): Projects under construction and their handover dates.
+
+## Guides
+
+- [Can Foreigners Buy Property in Georgia?](https://patronigeorgia.com/guides/can-foreigners-buy-property-in-georgia/): Yes — foreigners buy apartments, houses and commercial property in Georgia freehold, with no visa and no residency. The one exception is agricultural land.
+- [How to Buy an Apartment in Georgia](https://patronigeorgia.com/guides/how-to-buy-an-apartment-in-georgia/): The process for a foreign buyer: the registry check, off-plan versus finished, payment, registration, and the five checks that prevent costly mistakes.
+- [Georgia Residence Permit by Property: The $150,000 Rule](https://patronigeorgia.com/guides/georgia-residence-permit-through-property/): Since 1 March 2026 the threshold is $150,000, on a certified valuation and registered ownership. What counts, what does not, and the grandfather clause.
+- [Tbilisi vs Batumi Real Estate](https://patronigeorgia.com/guides/tbilisi-vs-batumi-real-estate/): Two different markets. Batumi is seasonal, foreign-driven and yield-led; Tbilisi is year-round and steadier. Which suits which buyer.
+- [Is Georgia Good for Real Estate Investment?](https://patronigeorgia.com/guides/is-georgia-good-for-real-estate-investment/): 5% rental tax, zero capital gains after two years, 17,478 Batumi sales in 2025, 8–10% growth — and the four risks nobody selling you an apartment mentions.
+- [Best Areas to Buy Property in Batumi](https://patronigeorgia.com/guides/best-areas-to-buy-property-in-batumi/): New Boulevard, Old Batumi, the first and second rows back from the sea, Gonio and Kvariati — what each area is actually like to own in, and who each one suits.
+- [Best Areas to Buy Property in Tbilisi](https://patronigeorgia.com/guides/best-areas-to-buy-property-in-tbilisi/): Vake, Saburtalo, Vera, Sololaki, Old Tbilisi and Didi Dighomi — the character, the tenant, the trade-off and the honest warning for each.
+- [Cost of Apartments in Georgia 2026](https://patronigeorgia.com/guides/cost-of-apartments-in-georgia/): Average $1,395–1,500 per square metre in Tbilisi and Batumi, plus the costs nobody quotes: finishing, furniture, service charges, valuation and legal fees.
+- [Georgia Travel Guide for First-Time Visitors](https://patronigeorgia.com/guides/georgia-travel-guide-first-time/): Visa-free for a full year for 94 nationalities. When to go, what it costs, how to get around, and the mistakes first-time visitors make.
+- [Best Places to Visit in Georgia](https://patronigeorgia.com/guides/best-places-to-visit-in-georgia/): Tbilisi, Kazbegi, Svaneti, Kakheti, Batumi, Mtskheta, Borjomi, Kutaisi and Gonio — what each is for, how long to give it, and when to go.
+- [Best Day Trips from Tbilisi](https://patronigeorgia.com/guides/best-day-trips-from-tbilisi/): Mtskheta, Kakheti, Ananuri, Gudauri and more — honest driving times, what each day actually delivers, and the one trip you should not attempt in a day.
+- [Kakheti Wine Region Guide](https://patronigeorgia.com/guides/kakheti-wine-region-guide/): 8,000 years of qvevri winemaking, Sighnaghi, Bodbe and Telavi — when the harvest is, and how to get into the good small wineries.
+- [Kazbegi Travel Guide: Gergeti Trinity Church](https://patronigeorgia.com/guides/kazbegi-travel-guide/): The Georgian Military Highway, Ananuri, Gudauri and the church at 2,170 m — driving times, how to get up to Gergeti, and why you should stay the night.
+- [Batumi Travel Guide](https://patronigeorgia.com/guides/batumi-travel-guide/): The boulevard, the botanical garden, Ali & Nino, Gonio fortress and the beaches south — plus an honest account of Batumi outside the summer season.
+
+## Recent posts
+
+- [The $150,000 residence permit rule, in one page](https://patronigeorgia.com/blog/georgia-residence-permit-150000-what-changed/): Since 1 March 2026 a Georgian residence permit through property needs $150,000, judged on a certified valuation and on registered ownership. Here is what that…
+- [What apartments in Batumi actually cost](https://patronigeorgia.com/blog/apartments-for-sale-in-batumi-what-they-cost/): Around $1,395–1,500 per square metre on average — and five things that move that number far more than the district name does.
+- [Tbilisi or Batumi? The buyer mix tells you everything](https://patronigeorgia.com/blog/tbilisi-vs-batumi-which-to-buy/): Both average about $1,500 per square metre. Underneath, they are not the same market at all — and one statistic explains why.
+- [Yes, foreigners can buy property in Georgia — with one exception](https://patronigeorgia.com/blog/can-foreigners-buy-property-in-georgia/): Freehold, in your own name, no visa and no residency required. The exception is agricultural land, and it catches people out in one specific way.
+- [The best day trips from Tbilisi — and the one not to attempt](https://patronigeorgia.com/blog/best-day-trips-from-tbilisi/): Mtskheta in half a day, Kakheti in a full one, Ananuri and Gudauri if you leave early. And Kazbegi, which everybody sells as a day trip and nobody should book…
+- [Ninety-four countries can stay in Georgia for a year, visa-free](https://patronigeorgia.com/blog/georgia-visa-free-one-year/): No registration, no fee, no application — including every Gulf state, Jordan and Turkey. Plus the second route most people have never heard of.
+
+## Notes for machines
+
+- Sitemap: https://patronigeorgia.com/sitemap.xml
+- robots.txt allows every crawler listed by name, AI crawlers included.
+- Closed: /api/ (JSON endpoints) and /review/ (private approval screen).
+- Every page carries JSON-LD: Organization, WebSite, the page type and a BreadcrumbList. Guides with questions also carry FAQPage.
+- Prices are quoted in US dollars unless the page says otherwise, and each carries the date it was checked. Quote the date with the number.
+- Arabic mirror of any page: put /ar in front of the path.
+

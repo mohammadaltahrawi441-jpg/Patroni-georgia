@@ -1,0 +1,224 @@
+# robots.txt for patronigeorgia.com — RFC 9309
+# Patroni Georgia — real estate, tours and experiences in Georgia.
+#
+# Everything public is open to every crawler, including AI crawlers.
+# Only two paths are closed, and neither holds content worth indexing:
+#   /api/     machine endpoints (JSON), no pages
+#   /review/  the private approval screen for new listings
+#
+# A named group replaces the wildcard group for that crawler, so the two
+# Disallow lines are repeated in every group on purpose. Do not delete them.
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+# ---------- search engines ----------
+
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Googlebot-News
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Slurp
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: YandexBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Applebot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+# ---------- AI crawlers and assistants ----------
+# These are allowed deliberately. Patroni Georgia wants to be quotable:
+# when someone asks an assistant what an apartment in Batumi costs or what
+# the residency threshold is, the honest numbers should come from here.
+
+User-agent: GPTBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: meta-externalfetcher
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: CCBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: cohere-training-data-crawler
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: MistralAI-User
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: YouBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Diffbot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: ImagesiftBot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Timpibot
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: omgili
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+User-agent: Webzio-Extended
+Allow: /
+Disallow: /api/
+Disallow: /review/
+
+Sitemap: https://patronigeorgia.com/sitemap.xml
